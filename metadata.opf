@@ -1,0 +1,44 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>The Heroic Slave, with Background and Context</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Douglass, Frederick">Frederick Douglass</dc:creator>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">a139141b-4bc7-4c36-aaae-4ca7e06ebb2b</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.29.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2018-11-04T04:00:00+00:00</dc:date>
+    <dc:publisher>Paul L. Hebert, The City University of New York</dc:publisher>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">69854cb9-f053-4678-997f-58e58ea0b3be</dc:identifier>
+    <meta content="{&quot;Frederick Douglass&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="calibre:title_sort" content="Heroic Slave, The"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="cover.html" id="id8" media-type="application/xhtml+xml"/>
+    <item href="Title.html" id="id1" media-type="application/xhtml+xml"/>
+    <item href="copyright.html" id="id7" media-type="application/xhtml+xml"/>
+    <item href="note.html" id="id2" media-type="application/xhtml+xml"/>
+    <item href="parti.html" id="id3" media-type="application/xhtml+xml"/>
+    <item href="partii.html" id="id4" media-type="application/xhtml+xml"/>
+    <item href="partiii.html" id="id5" media-type="application/xhtml+xml"/>
+    <item href="partiv.html" id="id10" media-type="application/xhtml+xml"/>
+    <item href="background.html" id="id6" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="styles.css" id="id" media-type="text/css"/>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="Douglass-sig.jpg" id="id11" media-type="image/jpeg"/>
+    <item href="heroic-slave-cover.jpg" id="id9" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id8"/>
+    <itemref idref="id1"/>
+    <itemref idref="id7"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id10"/>
+    <itemref idref="id6"/>
+  </spine>
+  <guide/>
+</package>

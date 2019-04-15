@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="a139141b-4bc7-4c36-aaae-4ca7e06ebb2b" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (3.32.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Heroic Slave, with Background and Context</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="cover.html"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>Title</text>
+      </navLabel>
+      <content src="Title.html"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="copyright.html#toc_3"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>About the Text</text>
+      </navLabel>
+      <content src="note.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>Part I.</text>
+      </navLabel>
+      <content src="parti.html"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>Part II.</text>
+      </navLabel>
+      <content src="partii.html"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>Part III.</text>
+      </navLabel>
+      <content src="partiii.html"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>Part IV.</text>
+      </navLabel>
+      <content src="partiv.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>Background and Contexts</text>
+      </navLabel>
+      <content src="background.html"/>
+      <navPoint id="num_10" playOrder="10">
+        <navLabel>
+          <text>Biography of Frederick Douglass</text>
+        </navLabel>
+        <content src="background.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_11" playOrder="11">
+        <navLabel>
+          <text>Biography of Madison Washington</text>
+        </navLabel>
+        <content src="background.html#toc_2"/>
+      </navPoint>
+      <navPoint id="num_12" playOrder="12">
+        <navLabel>
+          <text>Contemporary account of "The Creole Affiar"</text>
+        </navLabel>
+        <content src="background.html#toc_3"/>
+      </navPoint>
+      <navPoint id="num_13" playOrder="13">
+        <navLabel>
+          <text>Speech on "West India Emancipation"</text>
+        </navLabel>
+        <content src="background.html#toc_4"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
